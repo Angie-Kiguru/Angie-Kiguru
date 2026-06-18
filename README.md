@@ -4,5 +4,5 @@ Hi there👋 I'am Angela,
 - 👯 I’m looking to collaborate on some Projects.
 - 🤔 I’m looking for help with GitHub and programming.
 - 💬 Ask me about admin work, accounting and tec.
-- 📫 reach me via email - njerikiguru742@gmail.com .
+- 📫 reach me via email - njerikiguru742@gmail.com 
 - ⚡ Fun fact: small progress is still progress.
