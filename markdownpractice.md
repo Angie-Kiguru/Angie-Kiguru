@@ -1,3 +1,9 @@
 My learning Goals
 This Semester
-2. She is ready to learn, feel confident and checks emails daily.
+## Heading 2
+### Heading 3
+She is **ready** to learn, feel _confident_ and checks `emails` daily.
+Ready- Bold
+Confident - italic 
+Emails - inline code
+
