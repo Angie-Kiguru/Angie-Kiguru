@@ -1,5 +1,4 @@
-## Heading 1
-My learning Goals
+## My learning Goals
 This Semester
 ## 2. She is **ready** to learn, feel _confident_ and checks `emails` daily.
 - Ready- Bold
