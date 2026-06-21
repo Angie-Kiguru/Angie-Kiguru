@@ -13,7 +13,7 @@ To improve my digital skills, it is **very important** to practice writing *clea
 
 ## Exercise 3 — Links
 - [My GitHub Profile](https://github.com/Angie-Kiguru)
-- [Useful Website: PPersonal Site](https://angie-kiguru.github.io)
+- [Useful Website: Personal Site](https://angie-kiguru.github.io)
 
 ---
 
